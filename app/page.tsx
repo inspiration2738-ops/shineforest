@@ -48,7 +48,7 @@ export default function Home() {
         </div>
         <div className="portrait-wrap" aria-label="샤인포레스트 작가 황수빈">
           <div className="sun-disc" />
-          <img className="portrait" src="/profile-threads.png" alt="노란 원피스를 입고 숲과 호수 앞에 선 샤인포레스트 작가" />
+          <img className="portrait" src="/profile.jpg" alt="샤인포레스트 작가 황수빈 프로필" />
           <div className="stamp">shine<br />forest<br /><b>27</b></div>
         </div>
       </section>
